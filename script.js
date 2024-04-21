@@ -1292,3 +1292,7 @@ function fossdLoad() {
         alert("Error: " + e)
     }
 }
+
+function openFile(){
+
+}
